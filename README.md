@@ -1,4 +1,5 @@
 # Nginx HTTP server and reverse proxy (nginx) S2I Sample Application
+# Modificacion 1 para probar  el webhook y que lanza el Rolling update
 
 This is a very basic sample application repository that can be built and deployed
 on [OpenShift](https://www.openshift.com) using the [Nginx HTTP server and a reverse proxy builder image](https://github.com/sclorg/nginx-container).
